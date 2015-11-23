@@ -1,5 +1,5 @@
 # UML_diagrams_of_EZOP
-Diagrams created in ArgoUML showing the structure of EZOP Web-Ontology Server
+Diagrams that describe the EZOP Web-Ontology Server. All diagrams were created with ArgoUML.
 
 For more information about EZOP Web-Ontology Server visit the following pages:
 http://ezop-project.ru
